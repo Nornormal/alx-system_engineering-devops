@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la [ , ]* *[[/]] [[:alpha:]![. ..]]* [[:digit:]]* [[:letter:]]*
+ls -la [[ , ]]* *[[/]] [[:alpha:]![. ..]]* [[:digit:]]* 
