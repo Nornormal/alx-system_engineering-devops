@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lX | sort
+ls -lX /etc/passwd | sort
