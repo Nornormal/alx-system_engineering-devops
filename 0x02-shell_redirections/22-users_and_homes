@@ -1,2 +1,2 @@
 #!/bin/bash
-find /etc/passwd -ls -long | sort
+find /etc/passwd -ls -long | sort -k 1
