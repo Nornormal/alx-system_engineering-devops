@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "\x"(Ôo)'"
+echo -e "\u"(Ôo)'"
